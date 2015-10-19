@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+
+p.pgreen {
+    font-family: Geneva;
+    color: green;
+}
+
+#pblue {
+    font-family: Arial;
+    color: blue;
+}
+
+p.ppurple {
+    font-family: 'Shadows Into Light', cursive;
+    color: purple;
+}
+
+#pred {
+    font-family: 'Indie Flower', cursive;
+    color: pink;
+}
